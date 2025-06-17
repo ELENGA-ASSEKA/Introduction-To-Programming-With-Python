@@ -15,3 +15,13 @@ def welcom():
 name = input("What your name?: ")
 welcom()
 print(name)
+
+#We can go furter
+#Creat our own function
+def hello(to="World"):
+    print("hello,", to)
+    
+name = input("What your name? ")
+hello(name)
+
+hello()
