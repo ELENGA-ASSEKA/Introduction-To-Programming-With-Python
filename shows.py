@@ -1,5 +1,5 @@
 
-#the list of shows
+#The dictionary list of shows
 SHOWS = [
     " Avatar: the last airbender",
     "Ben 10",
@@ -11,7 +11,7 @@ SHOWS = [
     "the Proud family"
 ]
 
-#the main function
+#Let call the main function
 def main():
     cleaned_show = []
     for show in SHOWS:
