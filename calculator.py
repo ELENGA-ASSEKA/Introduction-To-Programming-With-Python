@@ -11,7 +11,7 @@ print()
 #The Main def for computing
 def main():
     x=int(input("What The X? "))
-    print("X squarde is", square(x))
+    print("X squared is", square(x))
 
 def square(n):
     return n * n
